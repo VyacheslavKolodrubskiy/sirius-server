@@ -1,0 +1,76 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+ul[class] {
+  list-style: none;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  object-fit: cover;
+}
+
+.page-title {
+  padding: 0px;
+  font-size: 28px;
+  letter-spacing: -1px;
+  display: block;
+  color: #666;
+  margin: 0px 0px 15px 0px;
+  font-weight: 300;
+
+  small {
+    font-size: 14px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    color: #888;
+  }
+}
