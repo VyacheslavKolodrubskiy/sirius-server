@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/sirius-server/static/css/main.9de19c02.chunk.css",
+    "main.js": "/sirius-server/static/js/main.807dca8f.chunk.js",
+    "main.js.map": "/sirius-server/static/js/main.807dca8f.chunk.js.map",
+    "runtime-main.js": "/sirius-server/static/js/runtime-main.7c506802.js",
+    "runtime-main.js.map": "/sirius-server/static/js/runtime-main.7c506802.js.map",
+    "static/js/2.b427c96a.chunk.js": "/sirius-server/static/js/2.b427c96a.chunk.js",
+    "static/js/2.b427c96a.chunk.js.map": "/sirius-server/static/js/2.b427c96a.chunk.js.map",
+    "index.html": "/sirius-server/index.html",
+    "static/css/main.9de19c02.chunk.css.map": "/sirius-server/static/css/main.9de19c02.chunk.css.map",
+    "static/js/2.b427c96a.chunk.js.LICENSE.txt": "/sirius-server/static/js/2.b427c96a.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.6a503861.svg": "/sirius-server/static/media/arrow-down.6a503861.svg",
+    "static/media/book.8ba283a7.svg": "/sirius-server/static/media/book.8ba283a7.svg",
+    "static/media/calendar.925a4ea6.svg": "/sirius-server/static/media/calendar.925a4ea6.svg",
+    "static/media/condition.500d2c61.svg": "/sirius-server/static/media/condition.500d2c61.svg",
+    "static/media/devices.fddf547d.svg": "/sirius-server/static/media/devices.fddf547d.svg",
+    "static/media/key.7cf8dba4.svg": "/sirius-server/static/media/key.7cf8dba4.svg",
+    "static/media/lang-en.c29455bd.svg": "/sirius-server/static/media/lang-en.c29455bd.svg",
+    "static/media/lang-ru.c89ed68a.svg": "/sirius-server/static/media/lang-ru.c89ed68a.svg",
+    "static/media/location.d0d809f7.svg": "/sirius-server/static/media/location.d0d809f7.svg",
+    "static/media/logout-icon.3d91387b.svg": "/sirius-server/static/media/logout-icon.3d91387b.svg",
+    "static/media/service.8ec032cf.svg": "/sirius-server/static/media/service.8ec032cf.svg",
+    "static/media/speech.16a7cbb7.svg": "/sirius-server/static/media/speech.16a7cbb7.svg",
+    "static/media/statistic.1ec57493.svg": "/sirius-server/static/media/statistic.1ec57493.svg",
+    "static/media/subscriptions.bfb3dd1b.svg": "/sirius-server/static/media/subscriptions.bfb3dd1b.svg",
+    "static/media/user-icon.4a000e6c.svg": "/sirius-server/static/media/user-icon.4a000e6c.svg",
+    "static/media/users.138c59a3.svg": "/sirius-server/static/media/users.138c59a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c506802.js",
+    "static/js/2.b427c96a.chunk.js",
+    "static/css/main.9de19c02.chunk.css",
+    "static/js/main.807dca8f.chunk.js"
+  ]
+}
