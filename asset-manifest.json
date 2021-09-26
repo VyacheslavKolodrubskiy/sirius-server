@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sirius-server/static/css/main.9de19c02.chunk.css",
-    "main.js": "/sirius-server/static/js/main.96e97dfc.chunk.js",
-    "main.js.map": "/sirius-server/static/js/main.96e97dfc.chunk.js.map",
+    "main.js": "/sirius-server/static/js/main.072d5ee3.chunk.js",
+    "main.js.map": "/sirius-server/static/js/main.072d5ee3.chunk.js.map",
     "runtime-main.js": "/sirius-server/static/js/runtime-main.7c506802.js",
     "runtime-main.js.map": "/sirius-server/static/js/runtime-main.7c506802.js.map",
     "static/js/2.b427c96a.chunk.js": "/sirius-server/static/js/2.b427c96a.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.7c506802.js",
     "static/js/2.b427c96a.chunk.js",
     "static/css/main.9de19c02.chunk.css",
-    "static/js/main.96e97dfc.chunk.js"
+    "static/js/main.072d5ee3.chunk.js"
   ]
 }
